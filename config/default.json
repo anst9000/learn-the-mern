@@ -1,4 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://acke:7amZZsngc6WgdJz0@cluster1.niigz.mongodb.net/<dbname>?retryWrites=true&w=majority",
-  "JWTSecret": "learn_the_mern_jwt_secret"
-}
