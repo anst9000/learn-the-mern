@@ -72,7 +72,7 @@ web_modules/
 .env
 .env.test
 
-# configuration files that are secret
+# configuration files
 config/
 
 # parcel-bundler cache (https://parceljs.org/)
